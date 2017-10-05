@@ -1,3 +1,3 @@
 # hello-world
-Klowd assignment
-Taking a web development class
+Klowd assignment.
+Not taking a web development class.

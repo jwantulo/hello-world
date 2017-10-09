@@ -5,4 +5,4 @@ docker version
 echo Node Version -------------------------
 node -v 
 npm install -g jscs
-jshint test.js
+jscs test.js

@@ -1,4 +1,4 @@
 function main(a, b) {
- b = "gah"
+ b = "gah";
  return a == null;
 }
